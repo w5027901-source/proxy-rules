@@ -1,12 +1,11 @@
 # 固定 IP 直连规则
-# Quantumult X 格式
-# 圈 X 这里不加 no-resolve
+# Quantumult X 远程分流资源格式
 
-ip-cidr, 119.42.62.92/32, direct
-ip-cidr, 47.90.202.107/32, direct
-ip-cidr, 104.166.145.86/32, direct
-ip-cidr, 192.81.111.197/32, direct
-ip-cidr, 36.255.76.113/32, direct
-ip-cidr, 36.255.77.113/32, direct
-ip-cidr, 46.235.32.117/32, direct
-ip-cidr, 46.235.34.186/32, direct
+ip-cidr, 119.42.62.92/32
+ip-cidr, 47.90.202.107/32
+ip-cidr, 104.166.145.86/32
+ip-cidr, 192.81.111.197/32
+ip-cidr, 36.255.76.113/32
+ip-cidr, 36.255.77.113/32
+ip-cidr, 46.235.32.117/32
+ip-cidr, 46.235.34.186/32
