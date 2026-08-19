@@ -1,0 +1,12 @@
+# 固定 IP 直连规则
+# Shadowrocket 格式
+# IP-CIDR 规则保留 no-resolve
+
+IP-CIDR,119.42.62.92/32,DIRECT,no-resolve
+IP-CIDR,47.90.202.107/32,DIRECT,no-resolve
+IP-CIDR,104.166.145.86/32,DIRECT,no-resolve
+IP-CIDR,192.81.111.197/32,DIRECT,no-resolve
+IP-CIDR,36.255.76.113/32,DIRECT,no-resolve
+IP-CIDR,36.255.77.113/32,DIRECT,no-resolve
+IP-CIDR,46.235.32.117/32,DIRECT,no-resolve
+IP-CIDR,46.235.34.186/32,DIRECT,no-resolve
