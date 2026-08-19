@@ -1,1 +1,26 @@
+# OKX 分流规则
+# 基础规则整理自 LOWERTOP/Shadowrocket-First
+# 其余条目根据个人实际网络活动补充
+# 使用前请先建立名为 OKX 的策略组
+# 如果不建立 OKX 策略组，把每条规则最后的 OKX 改成 DIRECT
 
+DOMAIN-SUFFIX,api.amplitudeexperiment.com,OKX
+DOMAIN-SUFFIX,api.onesignal.com,OKX
+DOMAIN-SUFFIX,appsflyersdk.com,OKX
+DOMAIN-SUFFIX,cnouyi.pizza,OKX
+DOMAIN-SUFFIX,coinall.ltd,OKX
+DOMAIN-SUFFIX,d1w1p0smpsoh5j.cloudfront.net,OKX
+DOMAIN-SUFFIX,firebase-settings.crashlytics.com,OKX
+DOMAIN-SUFFIX,geetest.com,OKX
+DOMAIN-SUFFIX,in.appcenter.ms,OKX
+DOMAIN-SUFFIX,kjmte.com,OKX
+DOMAIN-SUFFIX,okex.com,OKX
+DOMAIN-SUFFIX,oklink.com,OKX
+DOMAIN-SUFFIX,okx-dns.com,OKX
+DOMAIN-SUFFIX,okx-dns1.com,OKX
+DOMAIN-SUFFIX,okx-dns2.com,OKX
+DOMAIN-SUFFIX,okx.com,OKX
+DOMAIN-SUFFIX,okx.cab,OKX
+DOMAIN-SUFFIX,okx.ac,OKX
+DOMAIN-SUFFIX,okx.com.cdn.cloudflare.net,OKX
+DOMAIN-KEYWORD,liuyimin4,OKX
