@@ -1,25 +1,27 @@
 # OKX 分流规则
-# Quantumult X 远程分流资源格式
+# Quantumult X 格式
 # 基础规则整理自 LOWERTOP/Shadowrocket-First
 # 其余条目根据个人实际网络活动补充
+# 使用前请先建立名为 OKX 的策略组
+# 如果不建立 OKX 策略组，把每条规则最后的 OKX 改成 direct
 
-host-suffix, api.amplitudeexperiment.com
-host-suffix, api.onesignal.com
-host-suffix, appsflyersdk.com
-host-suffix, cnouyi.pizza
-host-suffix, coinall.ltd
-host-suffix, d1w1p0smpsoh5j.cloudfront.net
-host-suffix, firebase-settings.crashlytics.com
-host-suffix, geetest.com
-host-suffix, in.appcenter.ms
-host-suffix, kjmte.com
-host-suffix, okex.com
-host-suffix, oklink.com
-host-suffix, okx-dns.com
-host-suffix, okx-dns1.com
-host-suffix, okx-dns2.com
-host-suffix, okx.com
-host-suffix, okx.cab
-host-suffix, okx.ac
-host-suffix, okx.com.cdn.cloudflare.net
-host-keyword, liuyimin4
+host-suffix, api.amplitudeexperiment.com, OKX
+host-suffix, api.onesignal.com, OKX
+host-suffix, appsflyersdk.com, OKX
+host-suffix, cnouyi.pizza, OKX
+host-suffix, coinall.ltd, OKX
+host-suffix, d1w1p0smpsoh5j.cloudfront.net, OKX
+host-suffix, firebase-settings.crashlytics.com, OKX
+host-suffix, geetest.com, OKX
+host-suffix, in.appcenter.ms, OKX
+host-suffix, kjmte.com, OKX
+host-suffix, okex.com, OKX
+host-suffix, oklink.com, OKX
+host-suffix, okx-dns.com, OKX
+host-suffix, okx-dns1.com, OKX
+host-suffix, okx-dns2.com, OKX
+host-suffix, okx.com, OKX
+host-suffix, okx.cab, OKX
+host-suffix, okx.ac, OKX
+host-suffix, okx.com.cdn.cloudflare.net, OKX
+host-keyword, liuyimin4, OKX
