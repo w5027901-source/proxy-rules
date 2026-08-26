@@ -2,6 +2,8 @@
 # Shadowrocket 远程规则集格式
 # 基础规则整理自 LOWERTOP/Shadowrocket-First
 # 其余条目根据个人实际网络活动补充
+# 使用前请先建立名为 OKX 的策略组
+# 如果不建立 OKX 策略组，把每条规则最后的 OKX 改成 direct
 
 DOMAIN-SUFFIX,api.amplitudeexperiment.com
 DOMAIN-SUFFIX,api.onesignal.com
