@@ -3,26 +3,26 @@
 # 基础规则整理自 LOWERTOP/Shadowrocket-First
 # 其余条目根据个人实际网络活动补充
 
-host-suffix, api.amplitudeexperiment.com, direct
-host-suffix, api.onesignal.com, direct
-host-suffix, appsflyersdk.com, direct
-host-suffix, cnouyi.pizza, direct
-host-suffix, coinall.ltd, direct
-host-suffix, d1w1p0smpsoh5j.cloudfront.net, direct
-host-suffix, firebase-settings.crashlytics.com, direct
-host-suffix, geetest.com, direct
-host-suffix, in.appcenter.ms, direct
-host-suffix, kjmte.com, direct
-host-suffix, okex.com, direct
-host-suffix, oklink.com, direct
-host-suffix, okx-dns.com, direct
-host-suffix, okx-dns1.com, direct
-host-suffix, okx.com, direct
-host-suffix, okx.com.cdn.cloudflare.net, direct
-host-keyword, liuyimin4, direct
-host-suffix, okx.cab, direct
-host-suffix, okx.ac, direct
-host-suffix, okx-dns2.com, direct
+host-suffix,api.amplitudeexperiment.com
+host-suffix,api.onesignal.com
+host-suffix,appsflyersdk.com
+host-suffix,cnouyi.pizza
+host-suffix,coinall.ltd
+host-suffix,d1w1p0smpsoh5j.cloudfront.net
+host-suffix,firebase-settings.crashlytics.com
+host-suffix,geetest.com
+host-suffix,in.appcenter.ms
+host-suffix,kjmte.com
+host-suffix,okex.com
+host-suffix,oklink.com
+host-suffix,okx-dns.com
+host-suffix,okx-dns1.com
+host-suffix,okx.com
+host-suffix,okx.com.cdn.cloudflare.net
+host-keyword,liuyimin4
+host-suffix,okx.cab
+host-suffix,okx.ac
+host-suffix,okx-dns2.com
 
 
 
