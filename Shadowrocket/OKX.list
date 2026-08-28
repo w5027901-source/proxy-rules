@@ -3,23 +3,24 @@
 # 基础规则整理自 LOWERTOP/Shadowrocket-First
 # 其余条目根据个人实际网络活动补充
 
-DOMAIN-SUFFIX,api.amplitudeexperiment.com
-DOMAIN-SUFFIX,api.onesignal.com
-DOMAIN-SUFFIX,appsflyersdk.com
-DOMAIN-SUFFIX,cnouyi.pizza
-DOMAIN-SUFFIX,coinall.ltd
-DOMAIN-SUFFIX,d1w1p0smpsoh5j.cloudfront.net
-DOMAIN-SUFFIX,firebase-settings.crashlytics.com
-DOMAIN-SUFFIX,geetest.com
-DOMAIN-SUFFIX,in.appcenter.ms
-DOMAIN-SUFFIX,kjmte.com
-DOMAIN-SUFFIX,okex.com
-DOMAIN-SUFFIX,oklink.com
-DOMAIN-SUFFIX,okx-dns.com
-DOMAIN-SUFFIX,okx-dns1.com
-DOMAIN-SUFFIX,okx.com
-DOMAIN-SUFFIX,okx.com.cdn.cloudflare.net
-DOMAIN-KEYWORD,liuyimin4
-DOMAIN-SUFFIX,okx.cab
-DOMAIN-SUFFIX,okx.ac
-DOMAIN-SUFFIX,okx-dns2.com
+DOMAIN-SUFFIX,api.amplitudeexperiment.com,DIRECT
+DOMAIN-SUFFIX,api.onesignal.com,DIRECT
+DOMAIN-SUFFIX,appsflyersdk.com,DIRECT
+DOMAIN-SUFFIX,cnouyi.pizza,DIRECT
+DOMAIN-SUFFIX,coinall.ltd,DIRECT
+DOMAIN-SUFFIX,d1w1p0smpsoh5j.cloudfront.net,DIRECT
+DOMAIN-SUFFIX,firebase-settings.crashlytics.com,DIRECT
+DOMAIN-SUFFIX,geetest.com,DIRECT
+DOMAIN-SUFFIX,in.appcenter.ms,DIRECT
+DOMAIN-SUFFIX,kjmte.com,DIRECT
+DOMAIN-SUFFIX,okex.com,DIRECT
+DOMAIN-SUFFIX,oklink.com,DIRECT
+DOMAIN-SUFFIX,okx-dns.com,DIRECT
+DOMAIN-SUFFIX,okx-dns1.com,DIRECT
+DOMAIN-SUFFIX,okx.com,DIRECT
+DOMAIN-SUFFIX,okx.com.cdn.cloudflare.net,DIRECT
+DOMAIN-KEYWORD,liuyimin4,DIRECT
+DOMAIN-SUFFIX,okx.cab,DIRECT
+DOMAIN-SUFFIX,okx.ac,DIRECT
+DOMAIN-SUFFIX,okx-dns2.com,DIRECT
+
